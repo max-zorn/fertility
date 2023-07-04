@@ -1,2 +1,4 @@
-# fertility_analysis
 Тестовое задание
+
+Напишите скрипт на Python или R, получающий данные из HTML таблицы с данными по рождаемости в России (ссылка ниже) и визуализируйте их на графике. Готовый файл в формате .ipynb для Python (.r для R) загрузите на любой файлообменник, а в поле ответа укажите ссылку.
+https://worldtable.info/gosudarstvo/tablica-rozhdaemosti-po-godam-rossija.html
